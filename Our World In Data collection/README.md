@@ -8,7 +8,7 @@
 
 #### [Johnston’s Archive of Nuclear Tests](http://www.johnstonsarchive.net/nuclear/tests/)
 
-#### Oklahoma Geological Survey Nuclear Explosion Catalog
+#### [Oklahoma Geological Survey Nuclear Explosion Catalog](https://github.com/ddodds42/cwmd_data_project/blob/master/Our%20World%20In%20Data%20collection/Oklahoma%20Geological%20Survey%20Nuclear%20Explosion%20Catalog.pdf)
 
 #### [80,000 Hours](https://80000hours.org/problem-profiles/nuclear-security/)
 
