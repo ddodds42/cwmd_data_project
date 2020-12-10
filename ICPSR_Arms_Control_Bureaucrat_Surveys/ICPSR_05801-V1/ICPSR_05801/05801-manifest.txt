@@ -1,0 +1,51 @@
+File Manifest for ICPSR 5801
+
+Brewer, Thomas L. ARMS CONTROL BUREAUCRATS. ICPSR version. Ann Arbor, MI:
+Inter-university Consortium for Political and Social Research
+[distributor], 1998. http://doi.org/10.3886/ICPSR05801.v1
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    05801-descriptioncitation.pdf       -       -         -       2014-07-03  -
+
+    05801-related_literature.txt        -       -         -       daily       -
+
+    05801-manifest.txt                  -       -         -       daily       -
+
+    05801-Codebook-card_image.pdf       -       -         -       1998-10-14  e119228c171f49c3be579a68b3a6db87
+
+
+DS0001 Part 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    05801-0001-Data.txt                 80      26        unknown 1995-10-20  499a3266c1d11e8868b21dbb62157fc3
+
+
+DS0002 Part 2
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    05801-0002-Data.txt                 80      62        unknown 1995-10-20  252a2c5420d08ae79ac3cb270e0ea831
+
+
+DS0003 Part 3
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    05801-0003-Data.txt                 80      26        unknown 1995-10-20  c432ed18be106304438aff7747fc325a
+
+
+Version History
+
+2006-01-18 File CB5801.ALL.PDF was removed from any previous datasets and
+flagged as a study-level file, so that it will accompany all downloads.
