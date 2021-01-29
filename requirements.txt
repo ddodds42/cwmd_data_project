@@ -1,0 +1,15 @@
+beautifulsoup4
+gensim
+ipykernel
+nltk
+pandas
+pyLDAvis
+requests
+scikit-learn
+scipy
+seaborn
+selenium
+spacy
+squarify
+tensorflow>=2.0.0
+wandb
