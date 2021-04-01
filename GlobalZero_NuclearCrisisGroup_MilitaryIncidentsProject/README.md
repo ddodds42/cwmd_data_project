@@ -6,4 +6,6 @@
 
 * Characteristics of Military Incindents, and a 2014 example in the Baltic [HERE](https://www.globalzero.org/updates/military-incidents-project-assessing-an-incident/)
 
+* Weapons Testing as military incidences / near misses [HERE](https://www.globalzero.org/updates/the-military-incidents-project-testing/)
+
 * 2018 Example of a military incident in the South China Sea [HERE](https://perma.cc/KW7R-CWZS)
