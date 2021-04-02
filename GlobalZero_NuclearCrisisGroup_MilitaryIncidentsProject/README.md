@@ -8,4 +8,6 @@
 
 * Weapons Testing as military incidences / near misses [HERE](https://www.globalzero.org/updates/the-military-incidents-project-testing/)
 
+* Military Exercises can measure breakdowns in international relations [HERE](https://www.globalzero.org/updates/the-military-incidents-project-tracking-military-exercises/)
+
 * 2018 Example of a military incident in the South China Sea [HERE](https://perma.cc/KW7R-CWZS)
