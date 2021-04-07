@@ -12,4 +12,6 @@
 
 * 993 air incidents catalogued by the Military Incients Project between Mar 2014 and [Jan 2020.](https://www.globalzero.org/updates/the-military-incidents-project-anatomy-of-an-air-incident/)
 
+* Announcement of Military Incidents Project 2.0, and 5 years of open data collection [HERE](https://www.globalzero.org/updates/introducing-the-military-incidents-project-2-0/)
+
 * 2018 Example of a military incident in the South China Sea [HERE](https://perma.cc/KW7R-CWZS)
