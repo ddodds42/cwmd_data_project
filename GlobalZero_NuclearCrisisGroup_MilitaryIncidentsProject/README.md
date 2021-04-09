@@ -14,4 +14,6 @@
 
 * Announcement of Military Incidents Project 2.0, and 5 years of open data collection [HERE](https://www.globalzero.org/updates/introducing-the-military-incidents-project-2-0/)
 
+* Discussion of how sub-nuclear conflict justification can be fabricated [HERE] (https://www.globalzero.org/updates/learning-from-iran-how-conflict-escalates/)
+
 * 2018 Example of a military incident in the South China Sea [HERE](https://perma.cc/KW7R-CWZS)
