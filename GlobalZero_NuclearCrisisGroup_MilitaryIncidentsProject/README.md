@@ -16,4 +16,6 @@
 
 * Discussion of how sub-nuclear conflict justification can be fabricated [HERE](https://www.globalzero.org/updates/learning-from-iran-how-conflict-escalates/)
 
+* Treaty deteriorations can provoke spikes in military incidents [HERE](https://www.globalzero.org/updates/above-the-baltic-sea-early-consequences-of-the-u-s-suspension-of-the-inf-treaty/)
+
 * 2018 Example of a military incident in the South China Sea [HERE](https://perma.cc/KW7R-CWZS)
