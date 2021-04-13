@@ -18,4 +18,6 @@
 
 * Treaty deteriorations can provoke spikes in military incidents [HERE](https://www.globalzero.org/updates/above-the-baltic-sea-early-consequences-of-the-u-s-suspension-of-the-inf-treaty/)
 
+* The consequences of eroded diplomacy in the South China Sea [HERE](https://www.globalzero.org/updates/near-misses-in-the-south-china-sea-call-for-a-new-approach/)
+
 * 2018 Example of a military incident in the South China Sea [HERE](https://perma.cc/KW7R-CWZS)
