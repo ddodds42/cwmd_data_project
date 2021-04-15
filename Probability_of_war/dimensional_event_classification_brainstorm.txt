@@ -1,0 +1,27 @@
+Dimension 1 - Escalation Level
+0: treaty violation / regression, diplomacy dissolves into threats
+1: Exercises / buildup - ground, air, or naval signaling via force positioning or exercises
+2: Testing - weapons or delivery systems
+3: Contact - non-nuclear violence
+4: Accident - a mistake / miscalculation with nuclear weapons systems
+5: Nuclear Escalation - nuclear weapons deployed
+
+Dimension 2 - Proximity
+0: Double Proxy - proxy state fighting a proxy state, 2+ layers of insulation between nuclear states
+1: Double Proxy allied - 1 or more non-nucear allies pulled into the conflict
+2: Assymetric - 1 Nuclear state, 1 non-nuclear, independent / non-proxied state
+3: Assymetric allied - 1 or more non-nucear allies pulled into the conflict
+4: Single Proxy - Proxy state in direct conflict with a nuclear state, 1 layer of insulation between nuclear states
+5: Single Proxy allied - 1 or more non-nucear allies pulled into the conflict
+6: Symmetric - direct conflict / tension between 2 nuclear armed states
+7: Symetric allied - 1 or more non-nucear allies pulled into the conflict
+8: Multi-Nuclear - 1 or more allied nuclear states drawn into conflict against another nuclear state
+
+Dimension 3 - Prolongation
+0: Incident - within a day
+1: within a week
+2: within a month
+3: within a year
+4: within a leapyear
+5: within a decade
+6: Prolonged - beyond a decade
