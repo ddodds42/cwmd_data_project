@@ -1,10 +1,10 @@
 Dimension 1 - Escalation Level
-0: treaty violation / regression, diplomacy dissolves into threats
-1: Exercises / buildup - ground, air, or naval signaling via force positioning or exercises
-2: Testing - weapons or delivery systems
-3: Contact - non-nuclear violence
-4: Accident - a mistake / miscalculation with nuclear weapons systems
-5: Nuclear Escalation - nuclear weapons deployed
+0: treaty violation / regression, diplomacy dissolves into threats (In the case of a non-state actor (NSA), accord breakdowns / propaganda uptick / threats)
+1: Exercises / buildup - ground, air, or naval signaling via force positioning or exercises (in NSA case: recruitment, increased arms trade, small scale robberies / hostage situations)
+2: Testing - weapons or delivery systems (NSA is seeking nuclear materials / expertise)
+3: Contact - non-nuclear violence (NSA launches non-nuclear terrorist attack(s))
+4: Accident - a mistake / miscalculation with nuclear weapons systems (includes nonwar detonation)(NSA makes mistake with WMD or uses WMD in an attack)
+5: Nuclear Escalation - nuclear weapons deployed as first strike (state actor retaliates against NSA or other states with nuclear strike)
 
 Dimension 2 - Proximity
 0: Double Proxy - proxy state fighting a proxy state, 2+ layers of insulation between nuclear states
