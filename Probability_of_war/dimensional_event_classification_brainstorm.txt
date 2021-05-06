@@ -83,6 +83,14 @@ Historical_Events =
 	'Rating': '3.8.4', 'Dimensions':{1:[0,1,2,3], 2:[8], 3:[4]},
 	'Description':'1950-1951, THE KOREAN WAR. In November 1950, after China joined the war, U.S. President Harry Truman told reporters the U.S. would consider using “every weapon that we have” against Chinese forces, including the atomic bomb. Then in 1951, the U.S. Joint Chiefs of Staff drafted an order authorizing the use of nuclear weapons in Manchuria if the Chinese launched airstrikes from there against U.S. forces in Korea (James 1985, p. 591) and the U.S. began sending B-29 bombers on nuclear attack training runs over North Korea. Although the U.S. signaled its willingness to use nuclear weapons, it never deployed any bombs for use in Korea (Dingman 1988).'
 	}
+'13_Operation_Vulture':{
+	'Rating': '4.1.3', 'Dimensions':{1:[2,3,4], 2:[1], 3:[3]},
+	'Description':'1954, THE FIRST INDOCHINA WAR. In 1954, towards the end of the war, French soldiers were trapped at Điện Biên Phủ in northwestern Vietnam. The U.S. military was helping them. For this effort, the U.S. considered using nuclear weapons as part of a plan known as Operation Vulture. The threat was sufficiently serious that the French expected that the U.S. would use nuclear weapons (Grant 2004), though ultimately the U.S. decided against it.'
+	}
+'14_Suez_Crisis':{
+	'Rating': '3.4.2', 'Dimensions':{1:[0,1,2,3], 2:[4], 3:[2]},
+	'Description':'1956, THE SUEZ CRISIS. In response to the invasion of Egypt by Israel, France, and the U.K., Soviet Premier Nikolai Bulganin sent letters to those countries plus the U.S., saying that the Soviet Union was “fully determined to crush the aggressors by the use of force and to restore peace in the East” and suggesting that the conflict could lead to a “third world war” (Gaddis 1997, p. 236).'
+	}
 'Military_incident':{
 	'Rating': '', 'Dimensions':{1:[], 2:[], 3:[]},
 	'Description':''
@@ -91,10 +99,13 @@ Historical_Events =
 
 
 Escalation_Dimension = {
-0:[0,1,3,4,5,6,7,8,9,10,11,12],
-1:[0,1,2,3,4,5,6,7,8,9,10,11,12],
-2:[0,1,2,3,4,6,9,11,12],
-3:[0,1,3,4,5,6,7,8,9,10,12],
-4:[3],
+0:[0,1,3,4,5,6,7,8,9,10,11,12,14],
+1:[0,1,2,3,4,5,6,7,8,9,10,11,12,14],
+2:[0,1,2,3,4,6,9,11,12,13,14],
+3:[0,1,3,4,5,6,7,8,9,10,12,13,14],
+4:[3,13],
 5:[0]
 }
+
+Pre_Deterrence_events_to_remove_for_Escalation_Dimension_2 = [0,11]
+Cutoff date 8/30/1949, day before CCCP detonates atomic bomb.
