@@ -43,7 +43,7 @@ Historical_Events =
 	'Rating': '2.1.2', 'Dimensions':{1:[1,2], 2:[1], 3:[2]},
 	'Description':'1971, INDO-PAKISTANI WAR. The Soviet Union dispatched a flotilla that included what was probably a nuclear-powered submarine to confront the U.S. Seventh Fleet in the Bay of Bengal and to prevent the U.S. from intervening in the conflict between India and Pakistan over what is now Bangladesh (Kruglyakov 1975). Later reports that the Soviet submarine was armed with nuclear weapons seem to be the result of confusion about the meaning of the term “nuclear submarine”. On 6 and 13 December, the Soviet Navy dispatched two groups of cruisers and destroyers from Vladivostok;[131] they trailed US Task Force 74 into the Indian Ocean from 18 December 1971 until 7 January 1972. The Soviets also had a nuclear submarine to help ward off the threat posed by the USS Enterprise task force in the Indian Ocean.[142][143]'
 	}
-'3_Yom_Kippur_War':{
+'3_Yom_Kippur_War_Israeli_Actions':{
 	'Rating': '4.8.2', 'Dimensions':{1:[0,1,2,3,4], 2:[8], 3:[2]},
 	'Description':'1973, THE “YOM KIPPUR” ARAB-ISRAELI WAR, ISRAELI ACTIONS. After the war, there were reports that Israeli Prime Minister Golda Meir authorized the assembly of 13 20-kiloton tactical nuclear weapons for use against Syrian and Egyptian targets, possibly in order to get the U.S. to take action on Israel’s behalf (Hersh 1993). More recent eyewitness testimony claims that Israeli Defense Minister Moshe Dayan proposed to demonstrate Israel’s nuclear weapons capability on an unoccupied site, but that Meir rejected Dayan’s plan (Cohen 2013). Testing activity inferred based on France's spike in testing in the months before Oct. 1973, after Anwar Sadat threatened attack on Isreal and increased military exercises. Isreal was supplied materials and testing support from France.'
 	}
@@ -91,6 +91,30 @@ Historical_Events =
 	'Rating': '3.4.2', 'Dimensions':{1:[0,1,2,3], 2:[4], 3:[2]},
 	'Description':'1956, THE SUEZ CRISIS. In response to the invasion of Egypt by Israel, France, and the U.K., Soviet Premier Nikolai Bulganin sent letters to those countries plus the U.S., saying that the Soviet Union was “fully determined to crush the aggressors by the use of force and to restore peace in the East” and suggesting that the conflict could lead to a “third world war” (Gaddis 1997, p. 236).'
 	}
+'15_Lebanon_Crisis':{
+	'Rating': '3.7.3', 'Dimensions':{1:[0,1,2,3], 2:[7], 3:[3]},
+	'Description':'1958, LEBANON CRISIS. A Lebanese civil war prompted the U.S. to intervene on behalf of the pro-West faction and against the pro-Soviet faction. The U.S. put its strategic air forces on alert and sent ships carrying nuclear ordnance to Lebanon (Quandt 1978, p. 256; Yengst et al. 1996, p. 125-29). President Eisenhower ordered the Chair of the Joint Chiefs of Staff to be prepared to use “whatever means might become necessary to prevent any unfriendly forces from moving into Kuwait” (Eisenhower 1965, p. 276).'
+	}
+'16_Battle_of_Khe_Sanh':{
+	'Rating': '3.8.3', 'Dimensions':{1:[0,1,2,3], 2:[8], 3:[3]},
+	'Description':'1968, BATTLE OF KHE SANH. U.S. commanders in Vietnam studied the possibility of using tactical nuclear weapons to defend the U.S. military base at Khe Sanh (Yengst et al. 1996, p. 215-18). But Secretary of Defense Robert McNamara told President Johnson that “because of terrain and other conditions peculiar to our operations in South Vietnam, it is inconceivable that the use of nuclear weapons would be recommended there against either Viet Cong or North Vietnamese forces” (McNamara 1968).'
+	}
+'17_Operation_Duck_Hook':{
+	'Rating': '3.8.3', 'Dimensions':{1:[0,1,2,3], 2:[8], 3:[3]},
+	'Description':'1968, OPERATION DUCK HOOK. U.S. National Security Advisor Henry Kissinger developed contingency plans under the code name “Duck Hook” for a massive strike against North Vietnam. A memorandum Kissinger sent to President Johnson describing the state of planning of Duck Hook says that an important open question was whether the U.S. should be “prepared to use nuclear weapons” (Kissinger 1969).'
+	}
+'18_Nixon_Madman_Episode':{
+	'Rating': '3.11.2', 'Dimensions':{1:[0,1,2,3], 2:[11], 3:[2]},
+	'Description':'1969, NIXON’S “MADMAN” EPISODE. In October 1969, U.S. President Richard Nixon put U.S. nuclear forces on high alert. The move was apparently intended to signal to Moscow that Nixon was unstable in hopes that this would motivate Moscow to act in ways that Washington considered more favorable. Exactly which Soviet actions were targeted is a matter of debate. Some observers have proposed that Nixon did this to signal opposition to the Soviet proposal to attack China with nuclear weapons in the Sino-Soviet border conflict, which was ongoing at the time. However, Sagan and Suri (2003) argue that Nixon was not focused on the Sino-Soviet border conflict, and instead acted in hopes of ending the Vietnam war in favorable terms.'
+	}
+'19_Yom_Kippur_War_American_Actions':{
+	'Rating': '4.8.2', 'Dimensions':{1:[0,1,2,3,4], 2:[8], 3:[2]},
+	'Description':'1973, THE “YOM KIPPUR” ARAB-ISRAELI WAR, AMERICAN ACTIONS. Towards the end of the war, the Soviet Union threatened to send troops to Egypt. In response, the U.S. raised its alert status to DefCon 3. The U.S. had no intent to use nuclear weapons. Instead, the intent was to deter the Soviet threat. Additionally, only one minor incident of inadvertent escalation during this episode has been identified, which was quickly resolved (Sagan 1993, p.212-216). The United States’ incorrect belief that Soviet nuclear warheads were being transported to Egypt helped spark a U.S. nuclear alert, which may, in turn, have prompted the start of a Soviet alert.'
+	}
+'20_Berlin_Blockade':{
+	'Rating': '1.4.3', 'Dimensions':{1:[0,1], 2:[4], 3:[3]},
+	'Description':'1948-1949, BERLIN BLOCKADE. The U.S. deployed several groups of B-29 bombers to England, including a few “Silverplate” specification bombers that were outfitted to deliver nuclear weapons, potentially signaling to the Soviet Union a willingness to use those weapons (Young 2007).'
+	}
 'Military_incident':{
 	'Rating': '', 'Dimensions':{1:[], 2:[], 3:[]},
 	'Description':''
@@ -99,13 +123,57 @@ Historical_Events =
 
 
 Escalation_Dimension = {
-0:[0,1,3,4,5,6,7,8,9,10,11,12,14],
-1:[0,1,2,3,4,5,6,7,8,9,10,11,12,14],
-2:[0,1,2,3,4,6,9,11,12,13,14],
-3:[0,1,3,4,5,6,7,8,9,10,12,13,14],
-4:[3,13],
+0:[0,1,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20],
+1:[0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20],
+2:[0,1,2,3,4,6,9,11,12,13,14,15,16,17,18,19],
+3:[0,1,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19],
+4:[3,13,19],
 5:[0]
 }
 
-Pre_Deterrence_events_to_remove_for_Escalation_Dimension_2 = [0,11]
+Pre_Deterrence_events_to_remove_for_Escalation_Dimension_2 = [0,11,20]
 Cutoff date 8/30/1949, day before CCCP detonates atomic bomb.
+
+
+Dimension 1 - Escalation Level
+0: treaty violation / regression, diplomacy dissolves into threats (In the case of a non-state actor (NSA), accord breakdowns / propaganda uptick / threats)
+1: Exercises / buildup - ground, air, or naval signaling via force positioning or exercises (in NSA case: recruitment, increased arms trade, small scale robberies / hostage situations)
+2: Testing - weapons or delivery systems (NSA is seeking nuclear materials / expertise)
+3: Contact - non-nuclear violence (NSA launches non-nuclear terrorist attack(s))
+4: Accidental Detonation / Averted Detonation - a mistake / miscalculation with nuclear weapons systems (includes nonwar detonation)(NSA makes mistake with WMD or uses WMD in an attack)
+5: Intentional Nuclear Escalation - nuclear weapons deployed as first strike (state actor retaliates against NSA or other states with nuclear strike)
+
+Dimension 2 - Proximity
+0: Double Proxy - proxy state fighting a proxy state, 2+ layers of insulation between nuclear states
+1: Double Proxy allied - 1 or more non-nucear allies pulled into the conflict
+2: Double Proxy Multinuclear - Multiple nuclear states on one side
+3: Asymmetric - 1 Nuclear state, 1 non-nuclear, independent / non-proxied state
+4: Asymmetric allied - 1 or more non-nucear allies pulled into the conflict
+5: Asymmetric Multinuclear - Multiple nuclear states on one side
+6: Single Proxy - Proxy state in direct conflict with a nuclear state, 1 layer of insulation between nuclear states
+7: Single Proxy allied - 1 or more non-nucear allies pulled into the conflict
+8: Single Proxy Multinuclear - Multiple nuclear states on one side
+9: Symmetric - direct conflict / tension between 2 nuclear armed states
+10: Symmetric allied - 1 or more non-nucear allies pulled into the conflict
+11: Symmetric Multi-Nuclear - 1 or more allied nuclear states drawn into direct conflict against another nuclear state
+
+Dimension 3 - Prolongation
+0: Incident - within a day
+1: within a week
+2: within a month
+3: within a year
+4: within a leapyear
+5: within a decade
+6: Prolonged - beyond a decade
+
+Acquisition Dates:
+United States: July 16, 1945
+Russia: August 31, 1949
+UK: Oct 3, 1952
+France: Feb 13, 1960
+Israel: 1963
+China: Oct 16, 1964
+India: May 18, 1974
+South Africa: Sep 22, 1979 - 1989
+Pakistan: May 28, 1998
+North Korea: Oct 9, 2006
