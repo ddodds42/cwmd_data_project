@@ -150,6 +150,10 @@ also saw several incidents of inadvertent escalation, discussed below."
 	'Rating': '1.9.4', 'Dimensions':{1:[0,1], 2:[9], 3:[4]},
 	'Description':"2017-PRESENT, AMERICAN THREATS. U.S. President Donald Trump has repeatedly made nuclear threats, primarily against North Korea. For example, in August 2017, Trump threatened North Korea with “fire and fury” (Myers and Sang-Hun 2017). In January 2018, Trump warned North Korea about his “nuclear button” (Baker and Tackett 2018)."
 	}
+'29_Six_Day_Arab_Israeli_War':{
+	'Rating': '4.4.1', 'Dimensions':{1:[0,1,2,3,4], 2:[4], 3:[1]},
+	'Description':"1967, THE “SIX-DAY” ARAB-ISRAELI WAR. In 1967, Israel’s nuclear program was close to the point where it could test a bomb if it chose to do so. When Egypt began to mobilize its forces on the Sinai Peninsula, Israeli teams assembled its nuclear bomb components into makeshift weapons, apparently without specific orders from military or political leadership to do so. They also drew up plans for a possible nuclear demonstration on an unpopulated site (Cohen 2007)."
+	}
 'Military_incident':{
 	'Rating': '', 'Dimensions':{1:[], 2:[], 3:[]},
 	'Description':""
@@ -158,11 +162,11 @@ also saw several incidents of inadvertent escalation, discussed below."
 
 
 Escalation_Dimension = {
-0:[0,1,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28],
-1:[0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,26,27,28],
-2:[0,1,2,3,4,6,9,11,12,13,14,15,16,17,18,19,21,22,23,24,25,27],
-3:[0,1,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,21,22,24],
-4:[3,13,19,24],
+0:[0,1,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29],
+1:[0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29],
+2:[0,1,2,3,4,6,9,11,12,13,14,15,16,17,18,19,21,22,23,24,25,27,29],
+3:[0,1,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,21,22,24,29],
+4:[3,13,19,24,29],
 5:[0]
 }
 
