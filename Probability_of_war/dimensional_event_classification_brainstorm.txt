@@ -57,7 +57,7 @@ Historical_Events =
 	}
 '6_Persian_Gulf_War':{
 	'Rating': '3.5.3', 'Dimensions':{1:[0,1,2,3], 2:[5], 3:[3]},
-	'Description':"1990, PERSIAN GULF WAR. U.S. Defense Secretary Dick Cheney commissioned a study of the feasibility of using nuclear weapons against the Iraqi Army. Cheney said that he was not 23 seriously considering using nuclear weapons but was curious about the U.S. options. The study was destroyed after Cheney reviewed it (Schwartz 1998, p. 111)."
+	'Description':"1990, PERSIAN GULF WAR. U.S. Defense Secretary Dick Cheney commissioned a study of the feasibility of using nuclear weapons against the Iraqi Army. Cheney said that he was not seriously considering using nuclear weapons but was curious about the U.S. options. The study was destroyed after Cheney reviewed it (Schwartz 1998, p. 111)."
 	}
 '7_Kargil_War':{
 	'Rating': '3.9.3', 'Dimensions':{1:[0,1,3], 2:[9], 3:[3]},
