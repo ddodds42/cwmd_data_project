@@ -274,6 +274,14 @@ also saw several incidents of inadvertent escalation, discussed below."
 	'Rating': '4.3.2', 'Dimensions':{1:[1,2,4], 2:[3], 3:[2]},
 	'Description':"1980, COMPUTER CHIP FAILURE. In June 1980, U.S. early warning systems at its Strategic Air Command repeatedly triggered alerts, which caused bomber crews to get ready for takeoff. The alerts were suspended when other missile attack warning systems showed no sign of an attack. An investigation blamed the false alerts on the failure of a single faulty computer chip (CGUS 1981; see also Sagan 1993)."
 	}
+'60_India_Pakistan_2019':{
+	'Rating': '', 'Dimensions':{1:[], 2:[], 3:[]},
+	'Description':""
+	}
+'61_Donbas_War':{
+	'Rating': '', 'Dimensions':{1:[], 2:[], 3:[]},
+	'Description':""
+	}
 'Military_incident':{
 	'Rating': '', 'Dimensions':{1:[], 2:[], 3:[]},
 	'Description':""
